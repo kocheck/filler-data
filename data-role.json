@@ -1,0 +1,281 @@
+{
+  "roleGroups": [
+    {
+      "name": "Engineering Leadership",
+      "description": "Roles focused on leading engineering teams, making technical decisions, and driving engineering excellence across the organization.",
+      "companies": ["Google", "Microsoft", "Amazon", "Meta", "Apple", "Netflix"]
+    },
+    {
+      "name": "Product Management",
+      "description": "Positions responsible for product strategy, roadmap planning, and working across teams to deliver exceptional products to market.",
+      "companies": ["Uber", "Airbnb", "Lyft", "Stripe", "Square", "Shopify"]
+    },
+    {
+      "name": "Marketing",
+      "description": "Roles centered on brand development, marketing strategy, and promotional activities to increase market presence and drive customer acquisition.",
+      "companies": ["Coca-Cola", "Nike", "Procter & Gamble", "HubSpot", "Salesforce", "Adobe"]
+    },
+    {
+      "name": "Design",
+      "description": "Creative positions focused on user experience, visual design, and creating compelling user interfaces and brand identities.",
+      "companies": ["Figma", "Adobe", "Canva", "Airbnb", "Apple", "Pinterest"]
+    },
+    {
+      "name": "Finance",
+      "description": "Roles managing financial planning, investor relations, budget oversight, and strategic financial leadership.",
+      "companies": ["JPMorgan Chase", "Goldman Sachs", "BlackRock", "Visa", "PayPal", "Stripe"]
+    },
+    {
+      "name": "Human Resources",
+      "description": "Positions focused on talent acquisition, employee development, culture building, and organizational effectiveness.",
+      "companies": ["LinkedIn", "Workday", "Glassdoor", "Indeed", "Culture Amp", "BambooHR"]
+    },
+    {
+      "name": "Data",
+      "description": "Roles centered on data analysis, machine learning, business intelligence, and translating data into actionable insights.",
+      "companies": ["Databricks", "Snowflake", "Palantir", "IBM", "SAS", "Tableau"]
+    },
+    {
+      "name": "Operations",
+      "description": "Positions responsible for optimizing business processes, supply chain management, and driving operational efficiency.",
+      "companies": ["Amazon", "FedEx", "UPS", "Walmart", "Target", "DHL"]
+    },
+    {
+      "name": "Customer Success",
+      "description": "Roles focused on customer retention, satisfaction, and expanding relationships with existing clients.",
+      "companies": ["Salesforce", "HubSpot", "Zendesk", "ServiceNow", "Slack", "Intercom"]
+    },
+    {
+      "name": "Sales",
+      "description": "Positions driving revenue growth through new customer acquisition and managing sales teams and processes.",
+      "companies": ["Oracle", "Salesforce", "SAP", "Dell", "IBM", "Microsoft"]
+    }
+  ],
+  "jobDescriptions": [
+    {
+      "role": "VP of Engineering",
+      "roleGroup": "Engineering Leadership",
+      "company": "TechVision Solutions",
+      "locations": ["San Francisco", "New York", "Remote"],
+      "compensation": "250k-350k+",
+      "description": "Leading our engineering department to deliver cutting-edge software solutions. Looking for a strategic thinker who can manage diverse teams and drive technical excellence.",
+      "requirements": {
+        "experience": "12+ years of engineering experience",
+        "skills": [
+          "Proven track record scaling engineering organizations (100+ engineers)",
+          "Experience with microservices architecture and cloud platforms",
+          "Strong background in agile methodologies and DevOps practices",
+          "Track record of successful product launches",
+          "Experience managing engineering budgets $10M+"
+        ],
+        "leadership": [
+          "Previously led engineering departments of 50+ people",
+          "Experience with remote/distributed teams",
+          "Strong technical vision and strategic planning capabilities"
+        ]
+      },
+      "profilesPlanning": 156,
+      "interviewStats": {
+        "activeInterviews": 12,
+        "completedInterviews": 45
+      }
+    },
+    {
+      "role": "Senior Product Manager",
+      "roleGroup": "Product Management",
+      "company": "InnovateCorp",
+      "locations": ["Austin", "Seattle", "Remote"],
+      "compensation": "160k-210k+",
+      "description": "Guide product development from concept to launch. Drive strategic roadmap planning and collaborate with cross-functional teams to deliver exceptional user experiences.",
+      "requirements": {
+        "experience": "8+ years of product management experience",
+        "skills": [
+          "Strong track record of shipping successful B2B products",
+          "Data-driven decision making and analytical capabilities",
+          "Experience with agile product development",
+          "Strategic thinking and market analysis",
+          "Product analytics and experimentation"
+        ],
+        "leadership": [
+          "Experience leading cross-functional teams",
+          "Stakeholder management at executive level",
+          "Product strategy and vision setting"
+        ]
+      },
+      "profilesPlanning": 234,
+      "interviewStats": {
+        "activeInterviews": 18,
+        "completedInterviews": 67
+      }
+    },
+    {
+      "role": "Director of Marketing",
+      "roleGroup": "Marketing",
+      "company": "BrandForge Media",
+      "locations": ["Chicago", "Los Angeles"],
+      "compensation": "180k-240k+",
+      "description": "Develop and execute comprehensive marketing strategies to increase brand awareness and drive growth. Lead a team of marketing professionals across digital, content, and brand initiatives.",
+      "profilesPlanning": 198,
+      "interviewStats": {
+        "activeInterviews": 10,
+        "completedInterviews": 40
+      }
+    },
+    {
+      "role": "UX Research Lead",
+      "roleGroup": "Design",
+      "company": "UserFirst Design",
+      "locations": ["Boston", "Remote"],
+      "compensation": "145k-190k+",
+      "description": "Lead user research initiatives to inform product design decisions. Combine qualitative and quantitative methodologies to deliver actionable insights.",
+      "profilesPlanning": 123,
+      "interviewStats": {
+        "activeInterviews": 8,
+        "completedInterviews": 35
+      }
+    },
+    {
+      "role": "Chief Financial Officer",
+      "roleGroup": "Finance",
+      "company": "Momentum Ventures",
+      "locations": ["New York", "Miami"],
+      "compensation": "275k-400k+",
+      "description": "Strategic financial leadership for a rapidly growing venture capital firm. Oversee investment analysis, portfolio management, and financial operations.",
+      "profilesPlanning": 210,
+      "interviewStats": {
+        "activeInterviews": 15,
+        "completedInterviews": 50
+      }
+    },
+    {
+      "role": "HR Director",
+      "roleGroup": "Human Resources",
+      "company": "PeopleFirst Inc.",
+      "locations": ["Minneapolis", "Remote"],
+      "compensation": "150k-185k+",
+      "description": "Shape company culture and HR strategy. Drive talent acquisition, employee development, and organizational effectiveness initiatives.",
+      "profilesPlanning": 145,
+      "interviewStats": {
+        "activeInterviews": 9,
+        "completedInterviews": 38
+      }
+    },
+    {
+      "role": "Data Science Manager",
+      "roleGroup": "Data",
+      "company": "AnalyticsPro",
+      "locations": ["San Diego", "Denver", "Remote"],
+      "compensation": "170k-220k+",
+      "description": "Lead a team of data scientists in developing machine learning models and analytics solutions. Translate complex data into strategic business insights.",
+      "profilesPlanning": 178,
+      "interviewStats": {
+        "activeInterviews": 11,
+        "completedInterviews": 42
+      }
+    },
+    {
+      "role": "Operations Director",
+      "roleGroup": "Operations",
+      "company": "EfficiencyMax",
+      "locations": ["Chicago", "Atlanta"],
+      "compensation": "165k-215k+",
+      "description": "Optimize business operations and supply chain management. Implement process improvements and drive operational excellence across the organization.",
+      "profilesPlanning": 160,
+      "interviewStats": {
+        "activeInterviews": 10,
+        "completedInterviews": 39
+      }
+    },
+    {
+      "role": "Frontend Engineering Manager",
+      "roleGroup": "Engineering Leadership",
+      "company": "VisualEdge Technologies",
+      "locations": ["Portland", "Remote"],
+      "compensation": "155k-195k+",
+      "description": "Lead frontend development team in creating beautiful, responsive web applications. Drive technical architecture decisions and mentor junior developers.",
+      "profilesPlanning": 140,
+      "interviewStats": {
+        "activeInterviews": 7,
+        "completedInterviews": 30
+      }
+    },
+    {
+      "role": "Customer Success Director",
+      "roleGroup": "Customer Success",
+      "company": "ClientWin Solutions",
+      "locations": ["Dallas", "Phoenix", "Remote"],
+      "compensation": "140k-180k+",
+      "description": "Build and lead a customer success organization focused on driving retention and expansion. Develop strategies to ensure exceptional customer experiences.",
+      "profilesPlanning": 130,
+      "interviewStats": {
+        "activeInterviews": 6,
+        "completedInterviews": 28
+      }
+    },
+    {
+      "role": "Creative Director",
+      "roleGroup": "Design",
+      "company": "DesignFusion Studio",
+      "locations": ["Los Angeles", "New York"],
+      "compensation": "160k-220k+",
+      "description": "Lead creative vision and design direction for major brand campaigns. Inspire and manage a team of designers, illustrators, and other creative professionals.",
+      "profilesPlanning": 150,
+      "interviewStats": {
+        "activeInterviews": 8,
+        "completedInterviews": 32
+      }
+    },
+    {
+      "role": "Security Engineering Lead",
+      "roleGroup": "Engineering Leadership",
+      "company": "CyberShield Protections",
+      "locations": ["Washington DC", "Remote"],
+      "compensation": "180k-230k+",
+      "description": "Direct cybersecurity engineering initiatives to protect critical infrastructure. Develop security architectures and lead threat mitigation strategies.",
+      "profilesPlanning": 170,
+      "interviewStats": {
+        "activeInterviews": 9,
+        "completedInterviews": 36
+      }
+    },
+    {
+      "role": "Sales Director",
+      "roleGroup": "Sales",
+      "company": "RevenueForce",
+      "locations": ["Chicago", "San Francisco", "New York"],
+      "compensation": "200k-300k+ (OTE)",
+      "description": "Drive enterprise sales growth and manage key client relationships. Build and lead high-performing sales teams to exceed revenue targets.",
+      "profilesPlanning": 220,
+      "interviewStats": {
+        "activeInterviews": 14,
+        "completedInterviews": 55
+      }
+    },
+    {
+      "role": "Principal Architect",
+      "roleGroup": "Engineering Leadership",
+      "company": "CloudMatrix Systems",
+      "locations": ["Seattle", "Remote"],
+      "compensation": "210k-280k+",
+      "description": "Define technical architecture for next-generation cloud solutions. Lead system design initiatives and set technology direction for the engineering organization.",
+      "profilesPlanning": 200,
+      "interviewStats": {
+        "activeInterviews": 12,
+        "completedInterviews": 48
+      }
+    },
+    {
+      "role": "Head of Content Strategy",
+      "roleGroup": "Marketing",
+      "company": "NarrativeEdge Media",
+      "locations": ["Austin", "Remote"],
+      "compensation": "135k-175k+",
+      "description": "Develop comprehensive content strategy across multiple platforms. Oversee content creation, distribution, and performance analysis.",
+      "profilesPlanning": 125,
+      "interviewStats": {
+        "activeInterviews": 7,
+        "completedInterviews": 29
+      }
+    }
+  ]
+}
